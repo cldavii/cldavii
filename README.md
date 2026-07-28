@@ -9,4 +9,13 @@
 </p>
 <em>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6a68376733d15c831073a4e3?variant=light)](https://roadmap.sh)
+```javascript
+const me = {
+  pronouns: "he" | "him",
+  code: [Java, Javascript, HTML, CSS, Python, PostgreSQL, MongoDB],
+  tools: [React, Node, Docker, Postman],
+ challenge: "Landing my first job in the tech industry"
+}
+```
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6a68376733d15c831073a4e3?variant=dark)](https://roadmap.sh)
