@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi, i'm Davi Clemente ✌🏽
+---
+**Backend-focused** developer.
 
-<!--
-**cldavii/cldavii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<em>Undergraduate student in Systems Analysis and Development at <a href="https://faculdadesenacpe.edu.br/">Faculdade Senac</a>.</em>
+<br>
+<em>Systems Development Technician, certified by <a href="https://www.grautecnico.com.br/">Grau Técnico</a></em>
+</p>
+<em>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![roadmap.sh](https://roadmap.sh/card/wide/6a68376733d15c831073a4e3?variant=light)](https://roadmap.sh)
