@@ -1,17 +1,6 @@
-### Hi, i'm Davi Clemente ✌🏽
+### Davi Clemente
 ---
-**Backend-focused** developer.
+Desenvolvedor **Backend**.
 
-<p>
-<em>Undergraduate student in Systems Analysis and Development at <a href="https://faculdadesenacpe.edu.br/">Faculdade Senac</a>.</em>
-<br>
-<em>Systems Development Technician, certified by <a href="https://www.grautecnico.com.br/">Grau Técnico</a></em>
-</p>
-<em>
-
-```javascript
-const me = {
-  pronouns: "he" | "him",
-  stack: [Java, Spring]
-}
-```
+*Graduando em Análise e Desenvolvimento de Sistemas pela [Faculdade Senac](https://faculdadesenacpe.edu.br/).*  
+*Técnico em Desenvolvimento de Sistemas pelo [Grau Técnico](https://www.grautecnico.com.br/).*
